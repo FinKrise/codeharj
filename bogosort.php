@@ -13,7 +13,6 @@ foreach ($arvot as $num) { //Foreach looppi käy array listan jokaisen arvon lä
 		$i++;
 	} 
 	else { 
-		$num = rand(1, $pituus); //sekoittaa kyseisen numeron listassa uudelleen
 	}
 }
 ?>
